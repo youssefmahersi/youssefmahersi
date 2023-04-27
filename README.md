@@ -2,7 +2,8 @@
 <h3 align="center">I am a motivated full-stack developer with strong technical skills in JavaScript, React, MongoDB, Node.js, Neo4j, Nest.js, TypeScript, Redux, Stripe, and the agile Scrum methodology. I have a passion for solving complex problems and enjoy working on personal projects to hone my skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youssefmahersi&label=Profile%20views&color=0e75b6&style=flat" alt="youssefmahersi" /> </p>
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="joseph-maersi" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/joseph-maersi?trk=profile-badge">Joseph maersi</a></div>
+              
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youssefmahersi" alt="youssefmahersi" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/youssef mahersi" target="blank"><img src="https://img.shields.io/twitter/follow/youssef mahersi?logo=twitter&style=for-the-badge" alt="youssef mahersi" /></a> </p>
