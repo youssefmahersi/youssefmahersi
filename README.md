@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahersi Youssef</h1>
-<h3 align="center">A Self thaught Enginner</h3>
+<h3 align="center">A Software Architecture</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youssefmahersi&label=Profile%20views&color=0e75b6&style=flat" alt="youssefmahersi" /> </p>
 
@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **goant**
 
-- 🌱 I’m currently learning **Devops, Applied Maths**
+- 🌱 I’m currently learning **Ai, Applied Maths**
 
-- 📫 How to reach me **youssef@gmail.com**
+- 📫 How to reach me **youssefmahersi0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
